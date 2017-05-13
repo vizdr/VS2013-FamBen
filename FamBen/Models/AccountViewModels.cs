@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 namespace FamBen.Models
 {
     // Models returned by AccountController actions.
+    // First comment vz
     public class ExternalLoginConfirmationViewModel
     {
         [Required]
